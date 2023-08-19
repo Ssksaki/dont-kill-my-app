@@ -1,4 +1,4 @@
----
+---Inifinix 
 manufacturer:
     - general
 ---
